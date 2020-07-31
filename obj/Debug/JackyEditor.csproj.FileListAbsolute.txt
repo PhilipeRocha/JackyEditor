@@ -1,0 +1,10 @@
+C:\Users\Philipe\source\repos\JackyEditor\bin\Debug\JackyEditor.exe.config
+C:\Users\Philipe\source\repos\JackyEditor\bin\Debug\JackyEditor.exe
+C:\Users\Philipe\source\repos\JackyEditor\bin\Debug\JackyEditor.pdb
+C:\Users\Philipe\source\repos\JackyEditor\obj\Debug\JackyEditor.csprojAssemblyReference.cache
+C:\Users\Philipe\source\repos\JackyEditor\obj\Debug\JackyEditor.Properties.Resources.resources
+C:\Users\Philipe\source\repos\JackyEditor\obj\Debug\JackyEditor.csproj.GenerateResource.cache
+C:\Users\Philipe\source\repos\JackyEditor\obj\Debug\JackyEditor.csproj.CoreCompileInputs.cache
+C:\Users\Philipe\source\repos\JackyEditor\obj\Debug\JackyEditor.exe
+C:\Users\Philipe\source\repos\JackyEditor\obj\Debug\JackyEditor.pdb
+C:\Users\Philipe\source\repos\JackyEditor\obj\Debug\JackyEditor.EditorTexto.resources
